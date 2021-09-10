@@ -36,7 +36,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXddGd6mP5X2a?si=d58bdb84a4324829)
 
 - 🔭 I’m currently working on @Agito
-- 🌱 I’m currently learning **nodeJS**
+- 🌱 I’m currently learning **nodeJS** and **Mongo**
 - 💬 Ask me about **@ouzsrcm**
 
 [![Oğuz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1892085&layout=compact)](https://stackoverflow.com/users/1892085/oğuz)
