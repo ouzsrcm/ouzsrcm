@@ -35,8 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouzsrcm/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1892085/o%c4%9fuz)
 [![Twitter](https://img.shields.io/badge/<ouzsrcm>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ouzsrcm)
-
-Çalışırken dinlemelik müzik listem:[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXddGd6mP5X2a?si=d58bdb84a4324829)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXddGd6mP5X2a?si=d58bdb84a4324829)
 
 - 🔭 I’m currently working on @Agito
 - 🌱 I’m currently learning **nodeJS**
