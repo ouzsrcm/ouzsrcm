@@ -11,6 +11,7 @@
 İş hayatımda genel olarak Microsoft teknolojilerini kullandım. Bunun yanında daha lisede dersini aldığım ve merakımı orada celbeden **Linux** ile uzun yıllarım tanışıklığım ve kullanmışlığım oldu. Server Side Programming, Single Page Applications, Mobile First web development, RDBMS Systems ve Web teknolojilerinde yeni tekniklere ve geliştirmelere karşı tutkulu ve meraklı bir biçimde tutku hayatıma devam ediyorum. Bununda yanında Oracle, PLSQL ve TSQL teknolojileride uzmanlık alanlarım arasındadır.
 
 ## Günlük Kullandığım teknolojiler
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 <!--
 **ouzsrcm/ouzsrcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
