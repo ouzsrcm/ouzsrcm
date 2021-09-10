@@ -43,5 +43,5 @@
 [![Oğuz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1892085&layout=compact)](https://stackoverflow.com/users/1892085/oğuz)
 
 
-Kendine çok iyi bak nolur!
+Sakın kendini üzme, kendine çok iyi bak nolur! Hadi görüşürüz.
 -İsmail Abi
