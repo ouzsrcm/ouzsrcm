@@ -1,6 +1,8 @@
-### Hi there 👋
+## Merhaba! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=44DEF7&lines=Software+Developer;Linux+bash+scripting+enthusiast;Frontend+techs+and+JS+dev.)](https://git.io/typing-svg)
+
+[![oğuz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1892085)](https://stackoverflow.com/users/1892085/oğuz)
 
 <!--
 **ouzsrcm/ouzsrcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
