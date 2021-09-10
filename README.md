@@ -10,6 +10,8 @@
 
 İş hayatımda genel olarak Microsoft teknolojilerini kullandım. Bunun yanında daha lisede dersini aldığım ve merakımı orada celbeden **Linux** ile uzun yıllarım tanışıklığım ve kullanmışlığım oldu. Server Side Programming, Single Page Applications, Mobile First web development, RDBMS Systems ve Web teknolojilerinde yeni tekniklere ve geliştirmelere karşı tutkulu ve meraklı bir biçimde tutku hayatıma devam ediyorum. Bununda yanında Oracle, PLSQL ve TSQL teknolojileride uzmanlık alanlarım arasındadır.
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ❤️
+
 ## Günlük Kullandığım teknolojiler
 
 ###Backend
@@ -27,7 +29,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ##Social
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://ouzsrcm.medium.com/)
