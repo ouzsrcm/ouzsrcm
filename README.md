@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=44DEF7&lines=Software+Developer;Linux+bash+scripting+enthusiast;Frontend+techs+and+JS+dev.)](https://git.io/typing-svg)
 
-İsmim Oğuz, Tutkulu, Araştırmacı, Meraklı ve detaycı bir yazılım geliştiricisiyim. Tutkum mesleğime dönüşeli **8+** yıl oldu. Meslek hayatımın 2. baharını İstanbul'da yaşıyorum diyebilirim.
+İsmim Oğuz, Tutkulu, Araştırmacı, Meraklı ve detaycı bir yazılım geliştiricisiyim. Tutkum mesleğime dönüşeli **8+** yıl oldu.
 
 ## Hakkımda
 
-İş hayatımda genel olarak Microsoft teknolojilerini kullandım. Bunun yanında daha lisede dersini aldığım ve merakımı orada celbeden **Linux** ile uzun yıllarım tanışıklığım ve kullanmışlığım oldu. Server Side Programming, Single Page Applications, Mobile First web development, RDBMS Systems ve Web teknolojilerinde yeni tekniklere ve geliştirmelere karşı tutkulu ve meraklı bir biçimde tutku hayatıma devam ediyorum. Bununda yanında Oracle, PLSQL ve TSQL teknolojileride uzmanlık alanlarım arasındadır.
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ❤️
+İş hayatımda genel olarak Microsoft teknolojilerini kullandım. Bunun yanında **Linux** ile uzun yıllar tanışıklığım ve kullanmışlığım söz konusudur. Server Side Programming, Single Page Applications, Mobile First web development, RDBMS Systems ve Web teknolojilerinde varolan projelerin dönüştürülmesi ve Refactoring çalışmalarında çokça bulundum. Dönüşümler esnasında yeni teknolojiler ve geliştirme teknikleri elbette büyük rol oynuyor. Bu gibi projelerde en iyi arkadaşlarım tutku, merak ve çalışma beni hiç yalnız bırakmadılar. Bununda yanında Oracle, PLSQL ve TSQL teknolojileride uzmanlık alanlarım arasındadır.
 
 ## Günlük Kullandığım teknolojiler
 
@@ -20,7 +18,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Frontend
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
