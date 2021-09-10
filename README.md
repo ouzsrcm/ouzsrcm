@@ -24,7 +24,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ##Social
-![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)(https://ouzsrcm.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://ouzsrcm.medium.com/)
 <!--
 **ouzsrcm/ouzsrcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
