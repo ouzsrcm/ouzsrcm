@@ -4,7 +4,7 @@
 
 [![Oğuz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1892085&layout=compact)](https://stackoverflow.com/users/1892085/oğuz)
 
-İsmim Oğuz, Tutkulu, Araştırmacı, Meraklı ve detaycı bir yazılım geliştiricisiyim. Tutkum mesleğime dönüşeli **8+** yıl oldu. Meslek hayatımın 2. baharını İstanbul'da yaşıyorum diyebilirim. 
+İsmim Oğuz, Tutkulu, Araştırmacı, Meraklı ve detaycı bir yazılım geliştiricisiyim. Tutkum mesleğime dönüşeli **8+** yıl oldu. Meslek hayatımın 2. baharını İstanbul'da yaşıyorum diyebilirim. Çalışırken dinlemelik müzik listem:[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXddGd6mP5X2a?si=d58bdb84a4324829)
 
 ## Hakkımda
 
@@ -15,6 +15,11 @@
 ###Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ###Frontend
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -23,8 +28,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+
 ##Social
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://ouzsrcm.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouzsrcm/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1892085/o%c4%9fuz)
+
+
 <!--
 **ouzsrcm/ouzsrcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
