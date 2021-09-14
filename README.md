@@ -1,6 +1,4 @@
-# Merhaba! 👋
-
-## _Ciao Hallo Bonjour_
+# Merhaba! 👋 _Ciao Hallo Bonjour_
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=44DEF7&lines=Software+Developer;Linux+bash+scripting+enthusiast;Frontend+techs+and+JS+dev.)](https://git.io/typing-svg)
 
