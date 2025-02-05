@@ -6,13 +6,17 @@
 
 ## Hakkımda
 
-İş hayatımda genel olarak Microsoft teknolojilerini kullandım. Bunun yanında **Linux** ile uzun yıllar tanışıklığım ve kullanmışlığım söz konusudur. Server Side Programming, Single Page Applications, Mobile First web development, RDBMS Systems ve Web teknolojilerinde varolan projelerin dönüştürülmesi ve Refactoring çalışmalarında çokça bulundum. Dönüşümler esnasında yeni teknolojiler ve geliştirme teknikleri elbette büyük rol oynuyor. Bu gibi projelerde en iyi arkadaşlarım tutku, merak ve çalışma beni hiç yalnız bırakmadılar. Bununda yanında Oracle, PLSQL ve TSQL teknolojileride uzmanlık alanlarım arasındadır.
+Throughout my career, I have mainly worked with Microsoft technologies, but I also have many years of experience with Linux. I have been involved in projects related to Server-Side Programming, Single Page Applications, Mobile-First Web Development, and RDBMS Systems. In particular, I have played an active role in the transformation and refactoring of existing web projects.
+
+During these transformations, new technologies and development techniques play a crucial role. For me, passion, curiosity, and continuous learning have always been my strongest companions. In a world where technology is constantly evolving, I believe that keeping up with innovations and applying them effectively is essential to producing the best solutions.
+
+Additionally, I have expertise in Oracle, PLSQL, and TSQL, which I have used effectively for performance optimization and implementing complex business rules.
 
 ## Günlük Kullandığım teknolojiler
 
 ### Backend
 
-#### Güncel
+#### Current
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,7 +24,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Eskiden :) 
+#### Formerly :) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
@@ -34,7 +38,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Sosyal
+## Social
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://ouzsrcm.medium.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouzsrcm/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1892085/o%c4%9fuz)
@@ -51,5 +55,5 @@
 [![Oğuz StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1892085&layout=compact)](https://stackoverflow.com/users/1892085/oğuz)
 
 
-Sakın kendini üzme, kendine çok iyi bak nolur! Hadi görüşürüz.
+Don't get upset, take really good care of yourself, please! See you.
 -İsmail Abi
